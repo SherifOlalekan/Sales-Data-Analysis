@@ -1,6 +1,8 @@
 # Sales Data Analysis
 ### Project Overview 
 This data analysis project aims to provide insights into sales performance of an Electronics company for the year 2019 (and a little from January, 2020). Exploratio of sales trend over time, identifing the top selling product and cities, calculate revenue metrics such as total sales and profit margins and create a visualization to communicate the fingings effectively to business owners.
+![Sales Visuals](https://github.com/SherifOlalekan/Sales-Data-Analysis/assets/99323690/e8e5b43f-2b88-43c9-aeea-fc94eee69817)
+
 ### Data Source
 The primary dataset used for this analysis is the "Sales_Data.csv", which was provided by MeriSkill for my Intership program.
 ### Tools Used
@@ -37,3 +39,5 @@ My recommendations is as follows;
 
 ### References
 - [MeriSkill](https://www.linkedin.com/company/meriskill/)
+
+🤝
